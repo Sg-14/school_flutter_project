@@ -22,3 +22,6 @@ password for which you can enter test@gmail.com and password as 123456.
 ![image](https://user-images.githubusercontent.com/92416804/160898272-551c6bc1-f849-4fb2-8038-3886558317e4.png)
 ![image](https://user-images.githubusercontent.com/92416804/160898393-d44c8096-cc12-475f-a442-2575b10dd7f3.png)
 
+🔖 LICENCE
+
+Apache-2.0
