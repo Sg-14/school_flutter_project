@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Sample 1",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/schoollogin-c2444.appspot.com/o/reading-1-final.mp4?alt=media&token=fd2984c4-b54f-4b61-8b69-52941c46e364",
+    "thumbnail": "https://i.ytimg.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
+  },
+  {
+    "title": "Sample 3",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/schoollogin-c2444.appspot.com/o/reading%20-2%20-final(1).mp4?alt=media&token=a51f72ad-2145-4235-aabb-b10b2bcad7ef",
+    "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+  },
+  {
+    "title": "Sample 4",
+    "videoUrl": "\"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4\"",
+    "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+  },
+  {
+    "title": "Sample 5",
+    "videoUrl": "\"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4\"",
+    "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+  },
+  {
+    "title": "Sample 6",
+    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4\"",
+    "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+  }
+]

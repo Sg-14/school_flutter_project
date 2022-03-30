@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35242713108",
+    "project_id": "schoollogin-c2444",
+    "storage_bucket": "schoollogin-c2444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35242713108:android:ce3fed2ec9f357303ec701",
+        "android_client_info": {
+          "package_name": "com.example.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35242713108-sjvjsk8fa4gr3ustmav4493q1e1h6r06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school",
+            "certificate_hash": "fadc2fdf9e9a35a6f7326fe8383a7ad6c9a4c306"
+          }
+        },
+        {
+          "client_id": "35242713108-8nc7ms0fiq0h678miarjkpqnk3gmrbel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0xtNrQIaTunyhpl1BecEeq7gpFfSOwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35242713108-8nc7ms0fiq0h678miarjkpqnk3gmrbel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
