@@ -1,6 +1,6 @@
 📖📖 Flutter School App for Students
 
-A simple Flutter app for to view academic related videos provided by the institute. The videos used for sample purposes are public test videos available on github.
+A simple Flutter app to view academic related videos provided by the institute. The videos used for sample purposes are public test videos available on github.
  @jsturgis
 jsturgis/gist:3b19447b304616f18657   - Repositry was used for the videos
 
