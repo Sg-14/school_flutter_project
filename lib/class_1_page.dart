@@ -3,21 +3,21 @@ import 'dart:convert';
 
 import 'package:school/video_screen.dart';
 
-class UKGVideoInfo extends StatefulWidget {
-  const UKGVideoInfo({Key? key}) : super(key: key);
+class Class1VideoInfo extends StatefulWidget {
+  const Class1VideoInfo({Key? key}) : super(key: key);
 
   @override
-  _UKGVideoInfoState createState() => _UKGVideoInfoState();
+  _Class1VideoInfoState createState() => _Class1VideoInfoState();
 }
 
-class _UKGVideoInfoState extends State<UKGVideoInfo> {
+class _Class1VideoInfoState extends State<Class1VideoInfo> {
   List videoInfo = [];
   // ignore: unused_field
   final bool _videoPlayed = false;
 
   _initData() async {
     await DefaultAssetBundle.of(context)
-        .loadString("json/video_info_ukg.json")
+        .loadString("json/video_info_1.json")
         .then((value) {
       setState(() {
         videoInfo = json.decode(value);
@@ -27,7 +27,6 @@ class _UKGVideoInfoState extends State<UKGVideoInfo> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     _initData();
   }
@@ -50,7 +49,7 @@ class _UKGVideoInfoState extends State<UKGVideoInfo> {
             width: MediaQuery.of(context).size.width,
             height: 200,
             child: const Text(
-              "UKG",
+              "Class 1",
               style: TextStyle(fontSize: 35, color: Color(0xFFfefeff)),
             ),
           ),
